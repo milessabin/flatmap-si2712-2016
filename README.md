@@ -3,7 +3,7 @@
 Slides from my talk at flatMap(Oslo) 2016 on fixing SI-2712.
 
 The slide are online [here](http://milessabin.com/talks/2016/05/03/flatmap-si2712-2016), but won't make a lot of sense
-without the [Video](https://vimeo.com/channels/flatmap2016/165922514). I have also written up a walk through
+without the [video](https://vimeo.com/channels/flatmap2016/165922514). I have also written up a walk through
 explaining the mechanics of scalac's SBT build as a [blog post][http://milessabin.com/blog/2016/05/13/scalac-hacking].
 
 ### Resources
